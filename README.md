@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ICWangRD
-- 👀 I’m interested ASIC and Python
+- 👋 Hi, I’m @ICWang
+- 👀 I’m interested ASIC
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
